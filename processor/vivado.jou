@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Mar 16 19:31:31 2023
+# Process ID: 24840
+# Current directory: E:/Ankur/VLSI/Sem-1/DICDesign_Lab/Exp8/processor/processor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22252 E:\Ankur\VLSI\Sem-1\DICDesign_Lab\Exp8\processor\processor\processor.xpr
+# Log file: E:/Ankur/VLSI/Sem-1/DICDesign_Lab/Exp8/processor/processor/vivado.log
+# Journal file: E:/Ankur/VLSI/Sem-1/DICDesign_Lab/Exp8/processor/processor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/Ankur/VLSI/Sem-1/DICDesign_Lab/Exp8/processor/processor/processor.xpr
